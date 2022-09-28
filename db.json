@@ -1,4 +1,4 @@
-{
+[
 {
     "id":1,
     "name":"Molly Kirk",
@@ -47,4 +47,4 @@
     "email_id":"ree@gmail.com",
     "amount_paid":"yes"
   }
-}
+]
