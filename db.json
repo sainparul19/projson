@@ -4,49 +4,49 @@
     "id":1,
     "name":"Molly Kirk",
     "email_id":"mollyy@gmail.com",
-    "is_paid":"yes"
+    "is_paid":"true"
   },
   {
     "id":2,
     "name":"Nicholas Moore",
     "email_id":"nic@gmail.com",
-    "is_paid":"yes"
+    "is_paid":"true"
   },
   {
     "id":3,
     "name":"Davis Johns",
     "email_id":"dev@gmail.com",
-    "is_paid":"yes"
+    "is_paid":"true"
   },
   {
     "id":4,
     "name":"Candice Walls",
     "email_id":"candy@gmail.com",
-    "is_paid":"yes"
+    "is_paid":"true"
   },
   {
     "id":5,
     "name":"Nichole Lewis",
     "email_id":"nik@gmail.com",
-    "is_paid":"no"
+    "is_paid":"false"
   },
   {
     "id":6,
     "name":"Shay Marshall",
     "email_id":"shae@gmail.com",
-    "is_paid":"yes"
+    "is_paid":"true"
   },
   {
     "id":7,
     "name":"Wyoming Petersen",
     "email_id":"pett@gmail.com",
-    "is_paid":"no"
+    "is_paid":"false"
   },
   {
     "id":8,
     "name":"Ria Jackson",
     "email_id":"ree@gmail.com",
-    "is_paid":"yes"
+    "is_paid":"true"
   }
 ]
 }
